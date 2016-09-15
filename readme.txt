@@ -9,3 +9,4 @@ test local master with changes to both remote and a local branch.
 created a branch, play-branch, to see what happens
 play-branch change to test pull down changes.  Also changed remote master and local master.
 
+change to make sure git pull <branchname> doesn't also pull master changes
