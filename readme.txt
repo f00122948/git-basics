@@ -10,3 +10,5 @@ created a branch, play-branch, to see what happens
 play-branch change to test pull down changes.  Also changed remote master and local master.
 
 change to make sure git pull <branchname> doesn't also pull master changes
+
+9/16 Remote Master: test "git pull origin" effect on local branch that has changed
